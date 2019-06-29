@@ -1,4 +1,4 @@
-# Python-Boogle_Face_Recognition
+# Boogle Face Recognition
 ` This project is intended for COMP7116 - Computer Vision (BA08-LAB & LA08-LEC) assignments at BINUS University in 2018, even semester `
 
 ## Overview
